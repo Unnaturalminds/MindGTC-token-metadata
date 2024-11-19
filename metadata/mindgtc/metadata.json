@@ -1,0 +1,10 @@
+{
+    "name": "MindGTC",
+    "symbol": "MGTC",
+    "description": "Mind GTC is a utility token for the Mind GTC platform.",
+    "image": "https://raw.githubusercontent.com/Unnaturalminds/MindGTC-token-metadata/refs/heads/main/images/mindgtc/logo.png",
+    "properties": {
+      "creators": ["mindgtc"],
+      "files": [{"uri": "https://raw.githubusercontent.com/Unnaturalminds/MindGTC-token-metadata/refs/heads/main/images/mindgtc/logo.png", "type": "image/png"}]
+    }
+  }
