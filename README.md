@@ -4,7 +4,7 @@ Mind GTC Token [Solana Explorer](https://explorer.solana.com/address/5ct1DJ9ZC5p
 
 
 **Overview:**
-    Mind GTC is a utility token for the Mind GTC platform, designed to facilitate efficient and secure transactions.
+    MindGTC Mind gaurdian tensorial cypher is a utility token for the MindGTC self custodial multichain next gen crypto wallet, designed to power users Mind Minions.
 
 **Token Metadata** [Link](metadata/mindgtc/metadata.json)
 
@@ -23,9 +23,9 @@ Token Information
     
 
 **Token Information**
-Name : Mind GTC
+Name : MindGTC
 Symbol : MGTC
-Description: Mind GTC utility token
+Description: MindGTC utility token
 
 **Token Image**
 Image URL : https://raw.githubusercontent.com/Unnaturalminds/MindGTC-token-metadata/refs/heads/main/images/mindgtc/logo.png
